@@ -1,4 +1,1 @@
-# genuino 101 
-# LED
-# push button
-# toggle
+# genuino 101 / LED / push button / toggle
